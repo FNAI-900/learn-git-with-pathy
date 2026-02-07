@@ -1,3 +1,3 @@
-علمت أساسيات الأدوات اللي بنستخدمها مثل Git و VS Code وكيفية تثبيتها وتجهيز Git للاستخدام. فهمت إيش هو Version Control وليش نحتاجه، والفرق بين Git و GitHub وأهميتهم للمطورين.
+I learned the basics of the tools we will use, such as Git and VS Code, including how to install them and prepare Git for use. I understood what Version Control is, why we need it, the difference between Git and GitHub, and their importance for developers.
 
-كذلك تعلمت استخدام الـ Command Line للتنقل بين الملفات والمجلدات وإنشائها وتنظيمها، وفهمت الفرق بين المسارات المطلقة والنسبية. وأخيرًا تعلمت إنشاء مشروع باستخدام Git، تتبع وحفظ التغييرات، وربط المشروع بـ GitHub ورفعه عليه.
+I also learned how to use the Command Line to navigate between files and folders, create and organize them, and I understood the difference between absolute and relative paths. Finally, I learned how to create a project using Git, track and save changes, connect the project to GitHub, and upload it there.
